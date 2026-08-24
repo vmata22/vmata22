@@ -2,11 +2,11 @@
 
 ### 🎓 Computer Engineering Student | Aspiring Game Developer & Cybersecurity Enthusiast
 
-I'm currently completing my degree in Computer Engineering at Università degli Studi di Napoli Parthenope, graduating in October 2026. I am passionate about building secure systems, interactive experiences, and robust software architectures.
+I'm currently completing my degree in Computer Engineering at Università degli Studi di Napoli Parthenope, graduating in October 2026. I am passionate about tech, videogames and puzzles.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,13 +21,13 @@ I'm currently completing my degree in Computer Engineering at Università degli 
 
 ---
 
-### 🚀 What I'm up to right now
-* 🎓 Finalizing my thesis project: **FairWindSK**.
-* 🛡️ Exploring network security and backend systems for future career opportunities.
-* 🎮 Building vertical slices and prototypes to merge logic with creativity in Game Development.
+### What I'm up to right now
+* Finalizing my thesis project: **FairWindSK**.
+* Exploring network security and backend systems for future career opportunities.
+* Building vertical slices and prototypes to merge logic with creativity in Game Development.
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 * **LinkedIn:** [Insert your LinkedIn URL here]
 * **Email:** [Insert your Email here]
